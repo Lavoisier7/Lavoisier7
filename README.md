@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavoisier7&layout=compact&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lavoisier7&color=blue)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
