@@ -16,10 +16,37 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lavoisier7&show_icons=true&theme=radical)
+# Hi there 👋, I'm Lavoisier7!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavoisier7&layout=compact&theme=radical)
+Welcome to my GitHub profile! I am passionate about **Software Development**, **Computer Vision and Pattern Recognition**, and **Natural Language Processing**. Here's a quick overview of my GitHub stats and links to my projects:
 
-[![Static Badge](https://img.shields.io/badge/link-Lavoisier-8A2BE2)](https://lavoisier7.github.io)
-![Visitor Count](https://komarev.com/ghpvc/?username=Lavoisier7&color=blue)
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lavoisier7&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavoisier7&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+</div>
+
+---
+
+## 🌐 Links and Badges
+
+- 🔗 [**My Personal Blog**](https://lavoisier7.github.io)  
+- 🛠️ [**996.ICU**](https://996.icu)  
+- 👀 **Visitor Count**:  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Lavoisier7&color=blue)
+
+<div align="center">
+  <a href="https://lavoisier7.github.io">
+    <img src="https://img.shields.io/badge/link-Lavoisier-8A2BE2" alt="Personal Blog" />
+  </a>
+  <a href="https://996.icu">
+    <img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.ICU" />
+  </a>
+</div>
+
+---
+
+Thank you for visiting my GitHub profile! 😊
