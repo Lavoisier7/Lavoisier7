@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I am passionate about **Software Development**, **
 
 - 🔗 [**My Personal Blog**](https://lavoisier7.github.io)  
 - 🛠️ [**996.ICU**](https://996.icu)  
-- 👀 **Visitor Count**:  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Lavoisier7&color=blue)
+- 👀 **Visitor Count**:  ![Visitor Count](https://komarev.com/ghpvc/?username=Lavoisier7&color=blue)
 
 <div align="center">
   <a href="https://lavoisier7.github.io">
