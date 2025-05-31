@@ -33,18 +33,10 @@ Welcome to my GitHub profile! I am passionate about **Software Development**, **
 
 ## 🌐 Links and Badges
 
-- 🔗 [**My Personal Blog**](https://lavoisier7.github.io)  
-- 🛠️ [**996.ICU**](https://996.icu)  
-- 👀 **Visitor Count**:  ![Visitor Count](https://komarev.com/ghpvc/?username=Lavoisier7&color=blue)
+[![Static Badge](https://img.shields.io/badge/link-Lavoisier-8A2BE2)](https://lavoisier7.github.io)
+![Visitor Count](https://komarev.com/ghpvc/?username=Lavoisier7&color=blue)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-<div align="center">
-  <a href="https://lavoisier7.github.io">
-    <img src="https://img.shields.io/badge/link-Lavoisier-8A2BE2" alt="Personal Blog" />
-  </a>
-  <a href="https://996.icu">
-    <img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.ICU" />
-  </a>
-</div>
 
 ---
 
